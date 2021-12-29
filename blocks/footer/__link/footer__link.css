@@ -12,9 +12,9 @@
 }
 
 .footer__link:hover {
-  opacity: 0.6;
+  opacity: 0.8;
   transition: 0.4s;
-  cursor: url('../../../images/Imported\ Layers\ Copy\ 4.svg'), pointer;
+  cursor: url('../../../images/Imported Layers Copy 4.svg'), pointer;
 }
 
 @media screen and (max-width: 740px) {
